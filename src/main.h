@@ -8,4 +8,4 @@
 
 String product_id = "1649943372755689";  // production id
 const char *device_name = "2Smart Temperature Sensor";
-const char *device_version = "1";
+const char *device_version = "2";
